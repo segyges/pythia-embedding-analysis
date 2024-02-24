@@ -19,6 +19,6 @@ As per JDC has mentioned:
 ## Links to stuff that's useful
 GSON has uploaded weights here: https://huggingface.co/amphora/pythia-12b-weights
 
-- https://openreview.net/pdf?id=SkEYojRqtm & https://aclanthology.org/2022.findings-emnlp.314.pdf - anisotropic and hypercone behaviour of token embeddings and the latter paper links them to known biases such as frequency, subword, punctuation, and case
-- https://openreview.net/pdf?id=FxVH7iToXS - probably only relevant part fig1 evolution of cosine angle between tokens, maybe as another way to quantify embedding quality, or some behaviour that might be worth keeping in mind 
-- https://openreview.net/pdf?id=rJfJiR5ooX - does svd of embeddings
+- https://openreview.net/forum?id=SkEYojRqtm & https://aclanthology.org/2022.findings-emnlp.314/ - anisotropic and hypercone behaviour of token embeddings and the latter paper links them to known biases such as frequency, subword, punctuation, and case
+- https://openreview.net/forum?id=FxVH7iToXS - probably only relevant part fig1 evolution of cosine angle between tokens, maybe as another way to quantify embedding quality, or some behaviour that might be worth keeping in mind 
+- https://openreview.net/forum?id=rJfJiR5ooX - does svd of embeddings
