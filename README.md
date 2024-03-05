@@ -19,7 +19,7 @@ As per JDC has mentioned:
 ## Links to data
 GSON has uploaded weights here: https://huggingface.co/amphora/pythia-12b-weights
 
-And analysis of their similarities here: https://huggingface.co/amphora/pythia-12b-weights/tree/main/cos_sim
+And data on their similarities here: https://huggingface.co/amphora/pythia-12b-weights/tree/main/cos_sim
 
 ## References
 
