@@ -18,6 +18,7 @@ As per JDC has mentioned:
 
 ## Links to stuff that's useful
 GSON has uploaded weights here: https://huggingface.co/amphora/pythia-12b-weights
+
 And analysis of their similarities here: https://huggingface.co/amphora/pythia-12b-weights/tree/main/cos_sim
 
 - [Representation Degeneration Problem in Training Natural Language Generation Models](https://openreview.net/forum?id=SkEYojRqtm) & [Is anisotropy really the cause of BERT embeddings not being semantic?](https://aclanthology.org/2022.findings-emnlp.314/) - anisotropic and hypercone behaviour of token embeddings and the latter paper links them to known biases such as frequency, subword, punctuation, and case
