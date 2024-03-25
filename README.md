@@ -12,7 +12,7 @@ As per JDC has mentioned:
 
 ## TODO List:
 - [X] Upload all(or a meaningful subset, e.g. every power of 2) pythia-12b checkpoints to HF
-- [ ] Analysis of token meanings/categories in the fully trained pythia-12b model
+- [X] Analysis of token meanings/categories in the fully trained pythia-12b model
 - [ ] Analysis of what meanings show up when in training pythia-12b
 - [ ] Potentially expand this to other pythia model sizes to see if this is true across scales?
 
